@@ -1,1 +1,2 @@
-# PepeSeez
+# Example repo
+
